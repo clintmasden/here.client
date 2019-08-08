@@ -1,0 +1,36 @@
+﻿namespace Here.Client.Models
+{
+    public enum LocationTypes
+    {
+        Unknown,
+        Point,
+        Area,
+        Address,
+        Trail,
+        Park,
+        Lake,
+        MountainPeak,
+        Volcano,
+        River,
+        GolfCourse,
+        IndustrialComplex,
+        Island,
+        Woodland,
+        Cemetery,
+        CanalWaterChannel,
+        BayHarbor,
+        Airport,
+        Hospital,
+        SportsComplex,
+        ShoppingCentre,
+        UniversityCollege,
+        NativeAmericanReservation,
+        Railroad,
+        MilitaryBase,
+        ParkingLot,
+        ParkingGarage,
+        AnimalPark,
+        Beach,
+        DistanceMarker
+    }
+}
