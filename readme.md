@@ -1,4 +1,4 @@
-﻿
+
 # here.client
 A .NET Standard/C# implementation of Here.com API.
 
@@ -9,10 +9,10 @@ A .NET Standard/C# implementation of Here.com API.
 
 |  Endpoints | |
 | ------ | ------ |
-| Geocoding |   :fa-star: |
-| Geocoding Autocomplete |   :fa-close: |
-| Routing |   :fa-star: |
-| Traffic |   :fa-star: |
+| Geocoding |   Y |
+| Geocoding Autocomplete |   N |
+| Routing |   Y |
+| Traffic |   Y |
 
 #### Getting Started:
 ```
